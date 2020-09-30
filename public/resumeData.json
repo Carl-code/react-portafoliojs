@@ -87,28 +87,22 @@
         "url": "https://practical-bassi-bd1512.netlify.app/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Amazon E-commerce Clone",
+        "category": "Amazon Clone con React y Firebase",
+        "image": "amazon-clone.PNG",
+        "url": "https://amazoonclone.netlify.app/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Twitter Clone con React",
+        "category": "Twitter Clone hecho con ReactJS y firebase",
+        "image": "twitter-clone.PNG",
+        "url": "https://twitter-clonerd.netlify.app/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Spotify Clone con React",
+        "category": "Spotify Clone hecho con ReactJS",
+        "image": "spotify-clone.PNG",
+        "url": "https://spotify-clonerd.netlify.app/"
       }
     ]
   },
