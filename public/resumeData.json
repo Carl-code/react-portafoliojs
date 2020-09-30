@@ -54,17 +54,17 @@
       {
         "name": "ReactJs",
         "level": "80%",
-        "className": "fab fa-react"
+        "className": "fa fa-rocket"
       },
       {
         "name": "CSS",
         "level": "90%",
-        "className": "fa fa-github"
+        "className": "fa fa-css3"
       },
       {
         "name": "Git",
         "level": "80%",
-        "className": "fa fa-github"
+        "className": "fa fa-code-fork"
       },
       {
         "name": "HTML5",
@@ -74,7 +74,7 @@
       {
         "name": "MongoDB",
         "level": "80%",
-        "className": "fa fa-github"
+        "className": "fa fa-bar-chart-o"
       }
     ]
   },
